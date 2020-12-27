@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1609081435770,
+  "timestamp": 1609086108281,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.257b23b28f2dc0a4e342.js",
+        "/main.b45f39aaeec8cb295de3.js",
         "/manifest.webmanifest",
         "/polyfills.a4021de53358bb0fec14.js",
         "/runtime.e227d1a0e31cbccbf8ec.js",
@@ -261,8 +261,8 @@
     "/assets/service/water_cooller.jpg": "904d151f679660490a2927064849d3d76b6cb6c6",
     "/assets/service/windows_ac.jpeg": "fad4b0e4b60cf4f074a37c132a7e17fd30daba23",
     "/favicon.ico": "5798c0b64f4be33eb147b5acf69f5028d574a71b",
-    "/index.html": "77206019f2f5bfd3591003fb7c17418d25ee69bb",
-    "/main.257b23b28f2dc0a4e342.js": "f2e75e81172d1013a019cfef70392154f9229795",
+    "/index.html": "04a35266867d54ed21564dcf4e1b8badbb887b54",
+    "/main.b45f39aaeec8cb295de3.js": "1e6bb0318c9d8a4f82368484b8e16853bfc373db",
     "/manifest.webmanifest": "0169f302b4192291c364f74045a5f667d92af881",
     "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
