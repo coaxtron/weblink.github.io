@@ -1,0 +1,65 @@
+[{
+        "title": "HOME APPLIANCE",
+        "image": "assets/logo/logo1.png",
+        "url": "/service/home-appliances",
+        "icon": "fas fa-plug",
+        "logo": "assets/icon/home.svg",
+        "theme": "#075e54"
+    },
+    {
+        "title": "MECHANICAL",
+        "image": "assets/logo/logo1.png",
+        "url": "/service/mechanical",
+        "logo": "assets/icon/mechanicak.svg",
+        "icon": "fas fa-wrench",
+        "theme": "#075e54"
+    },
+    {
+        "title": "LIGHTING",
+        "image": "assets/logo/logo1.png",
+        "url": "/service/lighting",
+        "logo": "assets/icon/lighting.svg",
+        "icon": "far fa-lightbulb",
+        "theme": "#075e54"
+    },
+    {
+        "title": "RENTAL",
+        "image": "assets/logo/logo1.png",
+        "url": "/service/rental",
+        "icon": "fas fa-retweet",
+        "logo": "assets/icon/rental.svg",
+        "theme": "#075e54"
+    },
+    {
+        "title": "HVAC",
+        "image": "assets/logo/logo1.png",
+        "url": "/service/HVAC",
+        "icon": "fas fa-ellipsis-h",
+        "logo": "assets/icon/ac.svg",
+        "theme": "#075e54"
+    },
+    {
+        "title": "RO",
+        "image": "assets/logo/logo1.png",
+        "url": "/service/RO",
+        "icon": "fas fa-ellipsis-h",
+        "logo": "assets/icon/filter.svg",
+        "theme": "#075e54"
+    },
+    {
+        "title": "SECURITY",
+        "image": "assets/logo/logo1.png",
+        "url": "/service/security",
+        "logo": "assets/icon/security.svg",
+        "icon": "fas fa-ellipsis-h",
+        "theme": "#075e54"
+    },
+    {
+        "title": "Electrical",
+        "image": "assets/logo/logo1.png",
+        "url": "/service/electrical-hardware",
+        "logo": "assets/icon/electrical.svg",
+        "icon": "fas fa-ellipsis-h",
+        "theme": "#075e54"
+    }
+]

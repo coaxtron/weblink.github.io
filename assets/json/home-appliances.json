@@ -1,0 +1,328 @@
+[{
+        "service": "Home_Appliances",
+        "images": "assets/service/cooler.jpg",
+        "currentColor": "#536b8b",
+        "title": "Cooler",
+        "alt": "true",
+        "leftMargin": "true",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/geyser.webp",
+        "currentColor": "#536b8b",
+        "title": "Geyser",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/inverter.png",
+        "currentColor": "#536b8b",
+        "title": "Inverter",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/jucier_mixer.webp",
+        "currentColor": "#536b8b",
+        "title": "Juicer Mixer",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/microwave.webp",
+        "currentColor": "#536b8b",
+        "title": "Microwave",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/mixer.jpg",
+        "currentColor": "#536b8b",
+        "title": "Mixer Grinder",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/washing_machine.jpg",
+        "currentColor": "#536b8b",
+        "title": "Washing Machine",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/iron.jpg",
+        "currentColor": "#536b8b",
+        "title": "Iron",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/kettle.jpg",
+        "currentColor": "#536b8b",
+        "title": "Electric Kettle",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/fan.jfif",
+        "currentColor": "#536b8b",
+        "title": "Celling Fan",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/voltage.jfif",
+        "currentColor": "#536b8b",
+        "title": "Voltage Stabilizer",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/top.jpg",
+        "currentColor": "#536b8b",
+        "title": "Induction Cooktop",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/tv.jpg",
+        "currentColor": "#536b8b",
+        "title": "T.V / LCD / LED",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/fridge1.jpg",
+        "currentColor": "#536b8b",
+        "title": "Fridge",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/toster.jpg",
+        "currentColor": "#536b8b",
+        "title": "Toasters",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/coffie.jfif",
+        "currentColor": "#536b8b",
+        "title": "Coffee Machine",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/sewing.jpg",
+        "currentColor": "#536b8b",
+        "title": "Electrical Sewing Machine",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/music.jfif",
+        "currentColor": "#536b8b",
+        "title": "Music System",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Home_Appliances",
+        "images": "assets/service/other.png",
+        "currentColor": "#536b8b",
+        "title": "Any Other",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    }
+]

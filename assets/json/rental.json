@@ -1,0 +1,108 @@
+[{
+        "service": "Rental",
+        "images": "assets/service/split_ac.jpg",
+        "currentColor": "#536b8b",
+        "title": "Ac",
+        "leftMargin": "true",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Rental",
+        "images": "assets/service/fridge.jpg",
+        "currentColor": "#536b8b",
+        "title": "Fridge",
+        "leftMargin": "true",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Rental",
+        "images": "assets/service/cooler.jpg",
+        "currentColor": "#536b8b",
+        "title": "Cooler",
+        "alt": "true",
+        "leftMargin": "true",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Rental",
+        "images": "assets/service/washing_machine.jpg",
+        "currentColor": "#536b8b",
+        "title": "Washing Machine",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Rental",
+        "images": "assets/service/all_generater.jpg",
+        "currentColor": "#536b8b",
+        "title": "Diesel Generator",
+        "leftMargin": "true",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    },
+    {
+        "service": "Rental",
+        "images": "assets/service/other.png",
+        "currentColor": "#536b8b",
+        "title": "Any Other",
+        "description": "We like to hear from you! If you have received a great service from our team, do send us your compliments. Your positive feedback serves to motivate our team to serve you better. Of course, if you experience a lapse in our service level, we welcome your feedback. It will help to shape our future operations.",
+        "buttons": [
+            { "icon": "fa fa-whatsapp", "url": "/", "theme": "#075e54" },
+            {
+                "icon": "fa fa-phone",
+                "theme": "#696969",
+                "link": "tel:+91 8908780503",
+                "hide": "true"
+            },
+            { "icon": "fa fa-list-alt", "url": "/", "theme": "rgb(92 81 157)" }
+        ]
+    }
+]
