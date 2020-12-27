@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1609087643041,
+  "timestamp": 1609088024068,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -261,7 +261,7 @@
     "/assets/service/water_cooller.jpg": "904d151f679660490a2927064849d3d76b6cb6c6",
     "/assets/service/windows_ac.jpeg": "fad4b0e4b60cf4f074a37c132a7e17fd30daba23",
     "/favicon.ico": "5798c0b64f4be33eb147b5acf69f5028d574a71b",
-    "/index.html": "1adba323635ca1e18156cbdb71d4473e8163708e",
+    "/index.html": "d424a039850fe48daa542a8b98479b4fd1ceb3a5",
     "/main.8ffd81d00ed782dac6af.js": "f838153535a4745f306967654c00178a451042c2",
     "/manifest.webmanifest": "0169f302b4192291c364f74045a5f667d92af881",
     "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
